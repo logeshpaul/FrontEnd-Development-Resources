@@ -7,3 +7,6 @@
 * [HTML](https://github.com/logeshpaul/Frontend-Assets/wiki/HTML)
 * [CSS](https://github.com/logeshpaul/Frontend-Assets/wiki/CSS)
 * [Javascript](https://github.com/logeshpaul/Frontend-Assets/wiki/Javascript)
+
+
+* [Browser](https://github.com/logeshpaul/Frontend-Assets/wiki/Browser)
