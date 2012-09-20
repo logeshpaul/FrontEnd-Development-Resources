@@ -10,3 +10,4 @@
 
 
 * [Browser](https://github.com/logeshpaul/Frontend-Assets/wiki/Browser)
+* [Responsive](https://github.com/logeahpaul/Frontend-Assets/wiki/Responsive)
