@@ -2,16 +2,24 @@
 Collection of documentation, articles, plugins related to Frontend for your daily needs.
 Please click on the category below to explore more.
 
-**Technology:**
-***
+## Technology:
 
 * [HTML](https://github.com/logeshpaul/Frontend-Assets/wiki/HTML)
 * [CSS](https://github.com/logeshpaul/Frontend-Assets/wiki/CSS)
 * [Javascript](https://github.com/logeshpaul/Frontend-Assets/wiki/Javascript)
 
 
-**General:**
-***
+## General:
 
 * [Browser](https://github.com/logeshpaul/Frontend-Assets/wiki/Browser)
 * [Responsive](https://github.com/logeshpaul/Frontend-Assets/wiki/Responsive)
+
+
+<br/>
+<div>
+<h4>Contributors</h4>
+<p>Logesh Paul <a href="http:/www.twitter.com/logeshpaul">@logeshpaul</a><br/>
+Viduthalai Mani <a href="http:/www.twitter.com/viduthalai1947">@viduthalai1947</a></p>
+
+<i>Love to contribute? please contact us on twitter.</i>
+</div>
