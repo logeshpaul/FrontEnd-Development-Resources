@@ -14,7 +14,6 @@ Please click on the category below to explore more.
 * [Browser](https://github.com/logeshpaul/Frontend-Assets/wiki/Browser)
 * [Responsive](https://github.com/logeshpaul/Frontend-Assets/wiki/Responsive)
 * [Quick References](https://github.com/logeshpaul/Frontend-Assets/wiki/Quick-References)
-* 
 
 
 ## Version Control:
