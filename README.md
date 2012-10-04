@@ -23,7 +23,7 @@ Please click on the category below to explore more.
 
 ## Mobile Development:
 
-* [Git](https://github.com/logeshpaul/Frontend-Assets/wiki/Mobile-Development)
+* [Mobile Development](https://github.com/logeshpaul/Frontend-Assets/wiki/Mobile-Development)
 
 
 <br/>
