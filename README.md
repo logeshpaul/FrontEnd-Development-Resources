@@ -21,7 +21,7 @@ Please click on the category below to explore more.
 * [Git](https://github.com/logeshpaul/Frontend-Assets/wiki/Git)
 
 
-## Mobile Development:
+## Mobile:
 
 * [Mobile Development](https://github.com/logeshpaul/Frontend-Assets/wiki/Mobile-Development)
 
