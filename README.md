@@ -2,26 +2,26 @@
 Collection of documentation, articles, plugins related to Frontend for your daily needs.
 Please click on the category below to explore more.
 
-## Technology:
+#### Technology:
 
 * [HTML](https://github.com/logeshpaul/Frontend-Assets/wiki/HTML)
 * [CSS](https://github.com/logeshpaul/Frontend-Assets/wiki/CSS)
 * [Javascript](https://github.com/logeshpaul/Frontend-Assets/wiki/Javascript)
 
 
-## General:
+#### General:
 
 * [Browser](https://github.com/logeshpaul/Frontend-Assets/wiki/Browser)
 * [Responsive](https://github.com/logeshpaul/Frontend-Assets/wiki/Responsive)
 * [Quick References](https://github.com/logeshpaul/Frontend-Assets/wiki/Quick-References)
 
 
-## Version Control:
+#### Version Control:
 
 * [Git](https://github.com/logeshpaul/Frontend-Assets/wiki/Git)
 
 
-## Mobile:
+#### Mobile:
 
 * [Mobile Development](https://github.com/logeshpaul/Frontend-Assets/wiki/Mobile-Development)
 
