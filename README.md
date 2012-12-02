@@ -2,7 +2,7 @@
 Collection of documentation, articles, plugins related to Frontend for your daily needs.
 Please click on the category below to explore more.
 
-#### Technology:
+#### Language:
 
 * [HTML](https://github.com/logeshpaul/Frontend-Assets/wiki/HTML)
 * [CSS](https://github.com/logeshpaul/Frontend-Assets/wiki/CSS)
