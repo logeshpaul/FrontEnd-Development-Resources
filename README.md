@@ -30,7 +30,9 @@ Please click on the category below to explore more.
 <div>
 <h4>Authors</h4>
 <p>Logesh Paul <a href="http:/www.twitter.com/logeshpaul">@logeshpaul</a><br/>
-Viduthalai Mani <a href="http:/www.twitter.com/viduthalai1947">@viduthalai1947</a></p>
+Viduthalai Mani <a href="http:/www.twitter.com/viduthalai1947">@viduthalai1947</a><br/>
+Vineeth G S <a href="http://twitter.com/gsvineeth">@gsvineeth</a><br/>
+</p>
 
 <i>Love to contribute? please contact us on twitter.</i>
 </div>
