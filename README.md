@@ -4,26 +4,26 @@ Please click on the category below to explore more.
 
 #### Language:
 
-* [HTML](https://github.com/logeshpaul/Frontend-Assets/wiki/HTML)
-* [CSS](https://github.com/logeshpaul/Frontend-Assets/wiki/CSS)
-* [Javascript](https://github.com/logeshpaul/Frontend-Assets/wiki/Javascript)
+* [HTML](https://github.com/logeshpaul/FrontEnd-Development-Resources/wiki/HTML)
+* [CSS](https://github.com/logeshpaul/FrontEnd-Development-Resources/wiki/CSS)
+* [Javascript](https://github.com/logeshpaul/FrontEnd-Development-Resources/wiki/Javascript)
 
 
 #### General:
 
-* [Browser](https://github.com/logeshpaul/Frontend-Assets/wiki/Browser)
-* [Responsive](https://github.com/logeshpaul/Frontend-Assets/wiki/Responsive)
-* [Quick References](https://github.com/logeshpaul/Frontend-Assets/wiki/Quick-References)
+* [Browser](https://github.com/logeshpaul/FrontEnd-Development-Resources/wiki/Browser)
+* [Responsive](https://github.com/logeshpaul/FrontEnd-Development-Resources/wiki/Responsive)
+* [Quick References](https://github.com/logeshpaul/FrontEnd-Development-Resources/wiki/Quick-References)
 
 
 #### Version Control:
 
-* [Git](https://github.com/logeshpaul/Frontend-Assets/wiki/Git)
+* [Git](https://github.com/logeshpaul/FrontEnd-Development-Resources/wiki/Git)
 
 
 #### Mobile:
 
-* [Mobile Development](https://github.com/logeshpaul/Frontend-Assets/wiki/Mobile-Development)
+* [Mobile Development](https://github.com/logeshpaul/FrontEnd-Development-Resources/wiki/Mobile-Development)
 
 
 <br/>
