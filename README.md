@@ -32,6 +32,7 @@ Please click on the category below to explore more.
 <p>Logesh Paul <a href="http:/www.twitter.com/logeshpaul">@logeshpaul</a><br/>
 Viduthalai Mani <a href="http:/www.twitter.com/viduthalai1947">@viduthalai1947</a><br/>
 Vineeth G S <a href="http://twitter.com/gsvineeth">@gsvineeth</a><br/>
+Carlos Gustavo Correa da Costa Carlous <a href="http://twitter.com/froskie">@froskie</a><br/>
 </p>
 
 <i>Love to contribute? please contact us on twitter.</i>
