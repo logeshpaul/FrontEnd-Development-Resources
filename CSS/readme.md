@@ -1,5 +1,5 @@
 
-cumentation**
+**Documentation**
 
 * [Cascading Style Sheets](http://www.w3.org/Style/CSS/Overview.en.html) - by W3C
 * [CSS documentation](https://developer.mozilla.org/en-US/docs/CSS) - by Mozilla Developer Network
@@ -58,9 +58,9 @@ cumentation**
  * [inuit.css](https://github.com/csswizardry/inuit.css)
  * [Bourbon](https://github.com/thoughtbot/bourbon) - Mixins library for Sass
  * [Semantic CSS grid framework](https://github.com/thoughtbot/neat)
-* [stylus](http://learnboost.github.com/stylus/)
+ * [stylus](http://learnboost.github.com/stylus/)
  * [nib](http://visionmedia.github.com/nib/)
-* [less](http://lesscss.org/)
+ * [less](http://lesscss.org/)
  * [LESS Elements](http://lesselements.com/) - Mixins library for LESS
  * [Semantic.gs](http://semantic.gs/) - Semantic CSS grid system
 
@@ -79,6 +79,8 @@ cumentation**
 * [Vendor Prefix Sheet](http://peter.sh/experiments/vendor-prefixed-css-property-overview/) - A-Z list of vendor prefixes sheet
 * [CSScomb](http://csscomb.com/) - Sort CSS properties in specific order
 * [16 Box Shadows to Save Your Time](http://cssdeck.com/labs/16-box-shadows-to-save-your-time)
+* [Browser CSS hacks](http://paulirish.com/2009/browser-specific-css-hacks/)
+
 
 **References**
 
