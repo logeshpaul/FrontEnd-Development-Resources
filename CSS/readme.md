@@ -58,9 +58,9 @@
  * [inuit.css](https://github.com/csswizardry/inuit.css)
  * [Bourbon](https://github.com/thoughtbot/bourbon) - Mixins library for Sass
  * [Semantic CSS grid framework](https://github.com/thoughtbot/neat)
- * [stylus](http://learnboost.github.com/stylus/)
+* [stylus](http://learnboost.github.com/stylus/)
  * [nib](http://visionmedia.github.com/nib/)
- * [less](http://lesscss.org/)
+* [less](http://lesscss.org/)
  * [LESS Elements](http://lesselements.com/) - Mixins library for LESS
  * [Semantic.gs](http://semantic.gs/) - Semantic CSS grid system
 
