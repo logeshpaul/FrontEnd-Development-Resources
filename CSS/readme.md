@@ -15,6 +15,12 @@
 * [Object-Oriented CSS](http://oocss.org/)
 * [Learn Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
 
+**Basics/Understanding**
+
+* [Understanding CSS Shorthand](http://www.impressivewebs.com/css-basics/)
+* [Understanding CSS’s vertical-align Property](http://www.impressivewebs.com/css-vertical-align/)
+* [Clearing Floats: Why is it Necessary Even in “Modern” Browsers?](http://www.impressivewebs.com/clearing-floats-why-necessary/)
+
 **Reset Styles**
 
 * [Reset CSS](http://meyerweb.com/eric/tools/css/reset/) - by Eric Meyer
@@ -73,14 +79,13 @@
 * [W3C validator](http://jigsaw.w3.org/css-validator)
 * [CSS portal](http://www.cssportal.com/css-validatorhttp://filamentgroup.com/lab/responsive_design_approach_for_complex_multicolumn_data_tables)
 
-**Timesavers/Helpers**
+**Time Savers/Helpers**
 
 * [-prefix-free](http://leaverou.github.com/prefixfree/) - Break free from CSS prefix hell!
 * [Vendor Prefix Sheet](http://peter.sh/experiments/vendor-prefixed-css-property-overview/) - A-Z list of vendor prefixes sheet
 * [CSScomb](http://csscomb.com/) - Sort CSS properties in specific order
 * [16 Box Shadows to Save Your Time](http://cssdeck.com/labs/16-box-shadows-to-save-your-time)
 * [Browser CSS hacks](http://paulirish.com/2009/browser-specific-css-hacks/)
-
 
 **References**
 
