@@ -83,3 +83,4 @@
 * [tipsy](http://onehackoranother.com/projects/jquery/tipsy/) - Black Bg tooltips effect based on an anchor tag's title attribute.
 * [Hovercard](http://designwithpc.com/Plugins/Hovercard) - display related information with the hovered label, link, or any html element of your choice.
 * [Tipped](http://projects.nickstakenburg.com/tipped) - Tipped takes tooltips to the next level by using HTML5 to give you full control over the look and feel of your tooltips.
+* [Toolbar.Js](http://paulkinzett.github.com/toolbar/) - A jQuery plugin that creates tooltip style toolbars
