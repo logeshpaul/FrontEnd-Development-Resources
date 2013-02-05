@@ -1,4 +1,3 @@
-
 **Documentation**
 
 * [Cascading Style Sheets](http://www.w3.org/Style/CSS/Overview.en.html) - by W3C
@@ -20,6 +19,7 @@
 * [Understanding CSS Shorthand](http://www.impressivewebs.com/css-basics/)
 * [Understanding CSS’s vertical-align Property](http://www.impressivewebs.com/css-vertical-align/)
 * [Clearing Floats: Why is it Necessary Even in “Modern” Browsers?](http://www.impressivewebs.com/clearing-floats-why-necessary/)
+* [What No One Told You About Z-Index](http://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
 
 **Reset Styles**
 
