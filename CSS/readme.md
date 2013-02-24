@@ -21,6 +21,7 @@
 * [Clearing Floats: Why is it Necessary Even in “Modern” Browsers?](http://www.impressivewebs.com/clearing-floats-why-necessary/)
 * [What No One Told You About Z-Index](http://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
 * [Mastering :nth-child](http://nthmaster.com/)
+* [CSS floats explained](http://www.slideshare.net/maxdesign/css-floats-explained)
 
 **Reset Styles**
 
