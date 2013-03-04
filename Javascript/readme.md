@@ -58,6 +58,11 @@
 * [gmaps.js](http://hpneo.github.com/gmaps/) - Google maps api with less pain and more fun
 * [leaflet.js](http://leafletjs.com/) - An Open-Source JavaScript Library for Mobile-Friendly Interactive Maps
 
+
+**Images**
+
+* [ImageLoader.js](http://nick-jonas.github.com/imageloader/) - Preload Images
+
 **Time Savers**
 
 * [Numeral.js](http://numeraljs.com/) - A javascript library for formatting and manipulating numbers.
@@ -72,6 +77,7 @@
 * [Percentage Loader](http://widgets.better2web.com/loader/) - jQuery plugin for displaying progress in a visual and engaging way
 * [Piecon](http://lipka.github.com/piecon/) - Pie charts in your favicon!
 * [Notificon](https://github.com/makeable/Notificon) - Favicon Notifications / Alerts
+* [Hook.js](http://usehook.com/) - Pull to refresh. For the web.
 
 **Events**
 
