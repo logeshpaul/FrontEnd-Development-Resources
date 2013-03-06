@@ -58,6 +58,7 @@
 * [css3maker.com](http://www.css3maker.com/)
 * [CSS3 Sandbox](http://westciv.com/tools/index.html)
 * [The Shapes of Css](https://coderwall.com/p/xrxaxa)
+* [CSS triangle generator](http://apps.eky.hk/css-triangle-generator/)
 
 **Languages Compiling to CSS**
 
