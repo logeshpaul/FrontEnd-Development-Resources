@@ -15,7 +15,7 @@
 * [Learn Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
 
 **Basics/Understanding**
-
+* [CSS fundamentals-Understanding layout](http://learnlayout.com/)
 * [Understanding CSS Shorthand](http://www.impressivewebs.com/css-basics/)
 * [Understanding CSS’s vertical-align Property](http://www.impressivewebs.com/css-vertical-align/)
 * [Clearing Floats: Why is it Necessary Even in “Modern” Browsers?](http://www.impressivewebs.com/clearing-floats-why-necessary/)
