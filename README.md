@@ -26,7 +26,7 @@ Please click on the category below to explore more.
 <div>
 <h4>Authors</h4>
 <p>Logesh Paul <a href="http:/www.twitter.com/logeshpaul">@logeshpaul</a><br/>
-Viduthalai Mani <a href="http:/www.twitter.com/viduthalai1947">@viduthalai1947</a><br/>
+Viduthalai Mani <a href="http:/www.twitter.com/viduthalai1947"><img src="https://twimg0-a.akamaihd.net/profile_images/2998611318/3363d34a20905e5894087e1c2f317382_bigger.png">@viduthalai1947</a><br/>
 Vineeth G S <a href="http://twitter.com/gsvineeth">@gsvineeth</a><br/>
 Carlos Gustavo Correa da Costa Carlous <a href="http://twitter.com/froskie">@froskie</a><br/>
 </p>
