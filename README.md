@@ -1,35 +1,38 @@
-<h3>Frontend-Assets</h3>
+# Frontend-Assets
 Collection of documentation, articles, plugins related to Frontend for your daily needs.
 Please click on the category below to explore more.
 
-#### Language:
+## Language:
 
 * [HTML](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/HTML)
 * [CSS](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/CSS)
 * [Javascript](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript)
 
-#### General:
+## General:
 
 * [Browser](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Browser)
 * [Responsive](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Responsive)
 * [Quick References](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Quick-References)
 
-#### Version Control:
+## Version Control:
 
 * [Git](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Git)
 
-#### Mobile:
+## Mobile:
 
 * [Mobile Development](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master//Mobile-Development)
 
-<br/>
-<div>
-<h4>Authors</h4>
-<p>Logesh Paul <a href="http:/www.twitter.com/logeshpaul">@logeshpaul</a><br/>
-Viduthalai Mani <a href="http:/www.twitter.com/viduthalai1947">@viduthalai1947</a><br/>
-Vineeth G S <a href="http://twitter.com/gsvineeth">@gsvineeth</a><br/>
-Carlos Gustavo Correa da Costa Carlous <a href="http://twitter.com/froskie">@froskie</a><br/>
-</p>
+## Author:
 
-<i>Love to contribute? please contact us on twitter.</i>
-</div>
+<a href="http:/www.twitter.com/logeshpaul">Logesh Paul</a><br/>
+<a href="http:/www.twitter.com/viduthalai1947">Viduthalai Mani</a><br/>
+<a href="http://twitter.com/gsvineeth">Vineeth G S</a><br/>
+<a href="http://twitter.com/froskie">Carlos Gustavo</a><br/>
+
+## Contributions:
+If you want to contribute, please:
+
+* Fork the project.
+* Make your feature addition or bug fix.
+* Send me a pull request on Github.
+
