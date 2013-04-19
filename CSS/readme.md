@@ -32,7 +32,6 @@
 
 * [960 Grid system](http://960.gs)
 * [Golden Grid System](http://goldengridsystem.com) - Responsive
-* [1140 CSS Grid](http://cssgrid.net) - Responsive
 * [Simple Grid](http://thisisdallas.github.com/Simple-Grid/) - Responsive, Lightweight 
 
 **Frameworks ([Comparison](http://responsive.vermilion.com/compare.php))**
