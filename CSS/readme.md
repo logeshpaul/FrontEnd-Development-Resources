@@ -33,7 +33,7 @@
 * [960 Grid system](http://960.gs)
 * [Golden Grid System](http://goldengridsystem.com) - Responsive
 * [Simple Grid](http://thisisdallas.github.com/Simple-Grid/) - Responsive, Lightweight
-* [Foundation](http://foundation.zurb.com/) - Advanced responsive front-end framework
+* [SUSY](http://susy.oddbird.net/) - Responsive grid for compass
 
 
 **Frameworks ([Comparison](http://responsive.vermilion.com/compare.php))**
