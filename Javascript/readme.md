@@ -62,6 +62,7 @@
 **Images**
 
 * [ImageLoader.js](http://nick-jonas.github.com/imageloader/) - Preload Images
+* [imagesloaded](https://github.com/desandro/imagesloaded) - ImagesLoaded
 
 **Time Savers**
 
