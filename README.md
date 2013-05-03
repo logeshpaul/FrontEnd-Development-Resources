@@ -1,5 +1,5 @@
 # Frontend-Assets
-Collection of documentation, articles, plugins related to Frontend for your daily needs.
+Collection of documentation, articles, plugins related to Frontend development for your daily needs.
 Please click on the category below to explore more.
 
 ## Language:
@@ -24,13 +24,14 @@ Please click on the category below to explore more.
 
 ## Author:
 
-<a href="http:/www.twitter.com/logeshpaul">Logesh Paul</a><br/>
-<a href="http:/www.twitter.com/viduthalai1947">Viduthalai Mani</a><br/>
-<a href="http://twitter.com/gsvineeth">Vineeth G S</a><br/>
-<a href="http://twitter.com/froskie">Carlos Gustavo</a><br/>
+♡ <a href="http:/www.twitter.com/logeshpaul">Logesh Paul</a><br>
+♡ <a href="http:/www.twitter.com/viduthalai1947">Viduthalai Mani</a><br>
+♡ <a href="http://twitter.com/gsvineeth">Vineeth G S</a><br>
+♡ <a href="http://twitter.com/froskie">Carlos Gustavo</a><br>
+
 
 ## Contributions:
-If you want to contribute, please:
+♡ to contribute? if yes, please:
 
 * Fork the project.
 * Make your feature addition or bug fix.
