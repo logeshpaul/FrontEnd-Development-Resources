@@ -24,8 +24,9 @@
  * [Editable Select list](http://coffeescripter.com/code/editable-select/) - Autosuggest, Custom input, Select 
  exisiting
  * [ddSlick](http://designwithpc.com/Plugins/ddSlick) - Allows you to create a custom drop down with images and description.
-* Checkboxes:
- * [iPhone switch style](http://awardwinningfjords.com/2009/06/16/iphone-style-checkboxes.html) - Pretty smooth
+* Radio buttons/Check boxes:
+ * [Screw Default Buttons](http://www.screwdefaultbuttons.com/) - Replace default button with custom images.
+ * [iPhone Switch Style](http://awardwinningfjords.com/2009/06/16/iphone-style-checkboxes.html) - Pretty smooth
 * Date Picker:
  * [pickadate](http://amsul.github.com/pickadate.js/) - Sexy date picker, Responsive.
 * HTML5 Placeholder:
