@@ -24,6 +24,7 @@
  * [Editable Select list](http://coffeescripter.com/code/editable-select/) - Autosuggest, Custom input, Select 
  exisiting
  * [ddSlick](http://designwithpc.com/Plugins/ddSlick) - Allows you to create a custom drop down with images and description.
+ * [Selectize](http://brianreavis.github.io/selectize.js/) - hybrid of a textbox and <select> box. It's jQuery-based and it's useful for tagging, contact lists, country selectors, etc.,
 * Radio buttons/Check boxes:
  * [Screw Default Buttons](http://www.screwdefaultbuttons.com/) - Replace default button with custom images.
  * [iPhone Switch Style](http://awardwinningfjords.com/2009/06/16/iphone-style-checkboxes.html) - Pretty smooth
@@ -65,21 +66,10 @@
 * [ImageLoader.js](http://nick-jonas.github.com/imageloader/) - Preload Images
 * [imagesloaded](https://github.com/desandro/imagesloaded) - ImagesLoaded
 
-**Time Savers**
 
-* [Numeral.js](http://numeraljs.com/) - A javascript library for formatting and manipulating numbers.
-* [Money.js](http://josscrowcroft.github.com/money.js/) - JavaScript currency conversion library, done right - with no dependencies. Work seamlessly with data from the [Open Exchange Rates API](http://openexchangerates.org/)
-* [Moment.js](http://momentjs.com/) - Javascript date library for parsing, validating, manipulating, and formatting dates.
-* [Smart Time Ago](http://pragmaticly.github.com/smart-time-ago/) - jQuery library to update the relative timestamps in your document intelligently.
-* [Accounting.js](http://josscrowcroft.github.com/accounting.js/) - JavaScript library for number, money and currency formatting, with optional excel-style column rendering (to line up symbols and decimals). It's lightweight, fully localisable and has zero dependencies.
-* [Cookies](https://github.com/ScottHamper/Cookies) - JavaScript Client-Side Cookie Manipulation Library
-* [Zip.js](http://gildas-lormeau.github.com/zip.js/) - A JavaScript library to zip and unzip files
-* [String.js](http://stringjs.com/) - JavaScript library for the browser or for Node.js that provides extra String methods
-* [Countdown.js](http://countdownjs.org/) - JavaScript API for producing an accurate, intuitive description of the timespan between two Date instances
-* [Percentage Loader](http://widgets.better2web.com/loader/) - jQuery plugin for displaying progress in a visual and engaging way
-* [Piecon](http://lipka.github.com/piecon/) - Pie charts in your favicon!
-* [Notificon](https://github.com/makeable/Notificon) - Favicon Notifications / Alerts
-* [Hook.js](http://usehook.com/) - Pull to refresh. For the web.
+**Video & Audio**
+
+* [MediaElement.js](http://mediaelementjs.com/) - HTML5 Video & Audio player for all browsers with same UI. Includes the Flash fallback for IE7+ 
 
 **Events**
 
@@ -92,3 +82,29 @@
 * [Hovercard](http://designwithpc.com/Plugins/Hovercard) - display related information with the hovered label, link, or any html element of your choice.
 * [Tipped](http://projects.nickstakenburg.com/tipped) - Tipped takes tooltips to the next level by using HTML5 to give you full control over the look and feel of your tooltips.
 * [Toolbar.Js](http://paulkinzett.github.com/toolbar/) - A jQuery plugin that creates tooltip style toolbars
+ 
+**Loaders**
+
+* [Percentage Loader](http://widgets.better2web.com/loader/) - jQuery plugin for displaying progress in a visual and engaging way
+* [Hook.js](http://usehook.com/) - Pull to refresh. For the web.
+* [Pace](http://github.hubspot.com/pace/docs/welcome/) - Automatic page loading progress bar (Youtube loading bar clone)
+
+**Time**
+
+* [Moment.js](http://momentjs.com/) - Javascript date library for parsing, validating, manipulating, and formatting dates.
+* [Smart Time Ago](http://pragmaticly.github.com/smart-time-ago/) - jQuery library to update the relative timestamps in your document intelligently.
+* [Countdown.js](http://countdownjs.org/) - JavaScript API for producing an accurate, intuitive description of the timespan between two Date instances
+
+**Time Savers**
+
+* [Numeral.js](http://numeraljs.com/) - A javascript library for formatting and manipulating numbers.
+* [Money.js](http://josscrowcroft.github.com/money.js/) - JavaScript currency conversion library, done right - with no dependencies. Work seamlessly with data from the [Open Exchange Rates API](http://openexchangerates.org/)
+* [Accounting.js](http://josscrowcroft.github.com/accounting.js/) - JavaScript library for number, money and currency formatting, with optional excel-style column rendering (to line up symbols and decimals). It's lightweight, fully localisable and has zero dependencies.
+* [Cookies](https://github.com/ScottHamper/Cookies) - JavaScript Client-Side Cookie Manipulation Library
+* [Zip.js](http://gildas-lormeau.github.com/zip.js/) - A JavaScript library to zip and unzip files
+* [String.js](http://stringjs.com/) - JavaScript library for the browser or for Node.js that provides extra String methods
+* [Piecon](http://lipka.github.com/piecon/) - Pie charts in your favicon!
+* [Notificon](https://github.com/makeable/Notificon) - Favicon Notifications / Alerts
+* [KeyPress](http://dmauro.github.io/Keypress/) - A robust Javascript library for capturing keyboard input
+* [jQuery Custom content scroller](http://manos.malihu.gr/jquery-custom-content-scroller/) - Custom scrollbar plugin that's fully customizable with CSS
+
