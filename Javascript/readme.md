@@ -26,6 +26,7 @@
  * [ddSlick](http://designwithpc.com/Plugins/ddSlick) - Allows you to create a custom drop down with images and description.
  * [Selectize](http://brianreavis.github.io/selectize.js/) - hybrid of a textbox and <select> box. It's jQuery-based and it's useful for tagging, contact lists, country selectors, etc.,
 * Radio buttons/Check boxes:
+ * [iCheck](http://damirfoy.com/iCheck/) - Super customized & Flat radio and checkboxes 
  * [Screw Default Buttons](http://www.screwdefaultbuttons.com/) - Replace default button with custom images.
  * [iPhone Switch Style](http://awardwinningfjords.com/2009/06/16/iphone-style-checkboxes.html) - Pretty smooth
 * Date Picker:
@@ -52,6 +53,7 @@
  * [Ideal Forms](http://elclanrs.github.com/jq-idealforms/) - Ideal Forms is the ultimate framework for building and validating responsive HTML5 forms.
  * [Form Accordion](https://github.com/OliverJAsh/FormAccordion) - A jQuery plugin for easily hiding and revealing related form fields conditionally.
  * [Super Labels](https://github.com/remybach/jQuery.superLabels) - Creates labels for input & slide across the field when gaining focus and fade out when a value is entered
+ * [Progression.js](http://git.aaronlumsden.com/progression/#demo) -  real time hints & progress updates as user complete forms
 
 
 **Maps**
@@ -94,6 +96,11 @@
 * [Moment.js](http://momentjs.com/) - Javascript date library for parsing, validating, manipulating, and formatting dates.
 * [Smart Time Ago](http://pragmaticly.github.com/smart-time-ago/) - jQuery library to update the relative timestamps in your document intelligently.
 * [Countdown.js](http://countdownjs.org/) - JavaScript API for producing an accurate, intuitive description of the timespan between two Date instances
+ 
+**Canvas**
+
+* [Drawingboard.js](http://leimi.github.io/drawingboard.js/) - Create a drawing board on web using this library
+
 
 **Time Savers**
 
@@ -107,4 +114,4 @@
 * [Notificon](https://github.com/makeable/Notificon) - Favicon Notifications / Alerts
 * [KeyPress](http://dmauro.github.io/Keypress/) - A robust Javascript library for capturing keyboard input
 * [jQuery Custom content scroller](http://manos.malihu.gr/jquery-custom-content-scroller/) - Custom scrollbar plugin that's fully customizable with CSS
-
+* [RulersGuides.js](http://mark-rolich.github.io/RulersGuides.js/) - This Javascript package creates Photoshop-like guides and rulers interface on a web page.
