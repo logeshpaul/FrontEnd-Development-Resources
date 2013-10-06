@@ -16,6 +16,10 @@
 * [Cross Browser Handbook Knowledgebase](http://www.crossbrowserbook.com/Knowledge)
 
 
+**API Documentation**
+* [DevDocs](http://devdocs.io/) - All API's you every need for web development in one sweet place!
+
+
 **Online REPL's/editors/IDE's**
 
 * JS REPL 
