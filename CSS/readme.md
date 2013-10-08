@@ -22,6 +22,7 @@
 * [What No One Told You About Z-Index](http://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
 * [Mastering :nth-child](http://nthmaster.com/)
 * [CSS floats explained](http://www.slideshare.net/maxdesign/css-floats-explained)
+* [How Does Auto Positioning Work In CSS?](http://www.vanseodesign.com/css/auto-positioning/)
 
 **Reset Styles**
 
@@ -60,6 +61,7 @@
 * [CSS3 Sandbox](http://westciv.com/tools/index.html)
 * [The Shapes of Css](https://coderwall.com/p/xrxaxa)
 * [CSS triangle generator](http://apps.eky.hk/css-triangle-generator/)
+* [CSS Filters](http://html5-demos.appspot.com/static/css/filters/index.html)
 
 **Languages Compiling to CSS**
 
@@ -73,6 +75,7 @@
 * [less](http://lesscss.org/)
  * [LESS Elements](http://lesselements.com/) - Mixins library for LESS
  * [Semantic.gs](http://semantic.gs/) - Semantic CSS grid system
+* [Roole](http://roole.org/) - Almost similar to SASS, Less, Stylus. One awesome feature which is included in this is browser prefix.
 
 **Sourcemaps**
  * [Using Sass source maps in WebKit Inspector](http://bricss.net/post/33788072565/using-sass-source-maps-in-webkit-inspector)
