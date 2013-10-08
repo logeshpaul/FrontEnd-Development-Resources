@@ -94,8 +94,9 @@
 **Time**
 
 * [Moment.js](http://momentjs.com/) - Javascript date library for parsing, validating, manipulating, and formatting dates.
-* [Smart Time Ago](http://pragmaticly.github.com/smart-time-ago/) - jQuery library to update the relative timestamps in your document intelligently.
 * [Countdown.js](http://countdownjs.org/) - JavaScript API for producing an accurate, intuitive description of the timespan between two Date instances
+* [Smart Time Ago](http://pragmaticly.github.com/smart-time-ago/) - jQuery library to update the relative timestamps in your document intelligently.
+* [timeago](http://timeago.yarp.com/) - Timeago is a jQuery plugin that makes it easy to support automatically updating fuzzy timestamps
  
 **Canvas**
 
@@ -115,3 +116,5 @@
 * [KeyPress](http://dmauro.github.io/Keypress/) - A robust Javascript library for capturing keyboard input
 * [jQuery Custom content scroller](http://manos.malihu.gr/jquery-custom-content-scroller/) - Custom scrollbar plugin that's fully customizable with CSS
 * [RulersGuides.js](http://mark-rolich.github.io/RulersGuides.js/) - This Javascript package creates Photoshop-like guides and rulers interface on a web page.
+* [Formula.js](http://stoic.com/formula/) - JavaScript implementation of most formula functions supported by Microsoft Excel 2013 and Google Spreadsheets
+* [Intro.js](http://usablica.github.io/intro.js/) - Better introductions for websites and features with a step-by-step guide for your projects.
