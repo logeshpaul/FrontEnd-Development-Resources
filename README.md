@@ -37,3 +37,7 @@ Please click on the category below to explore more.
 * Make your feature addition or bug fix.
 * Send me a pull request on Github.
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/logeshpaul/frontend-development-resources/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
