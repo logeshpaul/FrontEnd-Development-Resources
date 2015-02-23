@@ -4,12 +4,12 @@ Collection of documentation, articles, plugins related to Frontend development f
 ## Language
 
 - [HTML](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/HTML)
-	- Documentation
-	- Guides
-	- API's
-	- Preprocessor
-	- Polyfills/Support
-	- References
+	- [Documentation](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/HTML#documentation)
+	- [Guides](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/HTML#guides)
+	- [API](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/HTML#api)
+	- [Preprocessor](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/HTML#preprocessor)
+	- [Fallback](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/HTML#fallback)
+	- [References](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/HTML#references)
 
 
 - [CSS](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/CSS)
