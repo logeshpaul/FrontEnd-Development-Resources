@@ -40,7 +40,7 @@ Collection of documentation, articles, plugins related to Frontend development f
 	- [Media](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#media)
 	- [Events](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#events)
 	- [Animation](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#animation)
-	- [ToolTip](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#toolTip)
+	- [Tool Tip](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#tool-tip)
 	- [Loaders](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#loaders)
 	- [Time](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#time)
 	- [Helpers](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#helpers)

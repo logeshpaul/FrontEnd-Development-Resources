@@ -83,8 +83,8 @@ Animation
 * Slider
  * [Basic Slider](http://basic-slider.com/) - Simple to use, simple to theme, simple to customise
 
-ToolTip
--------
+Tool Tip
+--------
 
 * [Tooltipster](http://calebjacob.com/tooltipster/) - enables you to easily create clean, HTML5 validated tooltips.
 * [tipsy](http://onehackoranother.com/projects/jquery/tipsy/) - Black Bg tooltips effect based on an anchor tag's title attribute.
