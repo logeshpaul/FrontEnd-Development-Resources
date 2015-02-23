@@ -26,9 +26,8 @@ Collection of documentation, articles, plugins related to Frontend development f
 	- [References](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/CSS#references)
 
 - [Javascript](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript)
-	- Documentation
-	- Animation
-	- Web Forms
+	- [Documentation](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#documentation)
+	- [Web Forms](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#web-forms)
 		- Select Box
 		- Radio buttons/Check boxes
 		- Date Picker
@@ -36,15 +35,15 @@ Collection of documentation, articles, plugins related to Frontend development f
 		- Validation
 		- File Upload
 		- Modal Boxes
-	- Maps
-	- Images
-	- Video & Audio
-	- Events
-	- ToolTip
-	- Loaders
-	- Time
-	- Canvas
-	- Time Savers
+	- [Maps](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#maps)
+	- [Images](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#images)
+	- [Media](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#media)
+	- [Events](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#events)
+	- [Animation](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#animation)
+	- [ToolTip](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#toolTip)
+	- [Loaders](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#loaders)
+	- [Time](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#time)
+	- [Helpers](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#helpers)
 
 ## General
 

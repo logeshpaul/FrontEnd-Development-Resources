@@ -1,22 +1,15 @@
-**Documentation**
+Documentation
+-------------
 
 * [A re-introduction to Javascript](https://developer.mozilla.org/en-US/docs/JavaScript/A_re-introduction_to_JavaScript?redirectlocale=en-US&redirectslug=A_re-introduction_to_JavaScript) - by Mozilla Developer Network
 * [Javascript Guide](https://developer.mozilla.org/en-US/docs/JavaScript/Guide) - by Mozilla Developer Network
-* [Learning Javascript design patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - by Addy Osmani 
+* [Learning Javascript design patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - by Addy Osmani
 * [The State of JavaScript](http://brendaneich.github.com/Strange-Loop-2012/#/) - by Brendan Eich
 * [jQuery Fundamentals](http://jqfundamentals.com/)
 * [Style Guide](https://github.com/airbnb/javascript)
 
-
-**Animation**
-
-* [BonsoiJS](http://bonsaijs.org/) - A Graphics library with intuitive graphics API and SVG renderer.
-* [liffect](http://ademilter.com/lab/liffect/) - LI -> List animations
-* [jQuery Transit](http://ricostacruz.com/jquery.transit/) - Super-smooth CSS3 transformations and transitions for jQuery
-* Slider
- * [Basic Slider](http://basic-slider.com/) - Simple to use, simple to theme, simple to customise
-
-**Web Forms**
+Web Forms
+---------
 
 * Select Box:
  * [Chosen](http://harvesthq.github.com/chosen/) - Morden, Customizable, More user-friendly
@@ -56,54 +49,66 @@
  * [Progression.js](http://git.aaronlumsden.com/progression/#demo) -  real time hints & progress updates as user complete forms
 
 
-**Maps**
+Maps
+----
 
 * [jvectormap](http://jvectormap.com/) - Interactive vector world map
 * [gmaps.js](http://hpneo.github.com/gmaps/) - Google maps api with less pain and more fun
 * [leaflet.js](http://leafletjs.com/) - An Open-Source JavaScript Library for Mobile-Friendly Interactive Maps
 
 
-**Images**
+Images
+------
 
 * [ImageLoader.js](http://nick-jonas.github.com/imageloader/) - Preload Images
 * [imagesloaded](https://github.com/desandro/imagesloaded) - ImagesLoaded
 
 
-**Video & Audio**
+Media
+-----
 
-* [MediaElement.js](http://mediaelementjs.com/) - HTML5 Video & Audio player for all browsers with same UI. Includes the Flash fallback for IE7+ 
+* [MediaElement.js](http://mediaelementjs.com/) - HTML5 Video & Audio player for all browsers with same UI. Includes the Flash fallback for IE7+
 
-**Events**
+Events
+------
 
 * [jQuery Outside Events](http://benalman.com/projects/jquery-outside-events-plugin/) - clickoutside, dbclickoutside, etc.,
 
-**ToolTip**
+Animation
+---------
+
+* [BonsoiJS](http://bonsaijs.org/) - A Graphics library with intuitive graphics API and SVG renderer.
+* [liffect](http://ademilter.com/lab/liffect/) - LI -> List animations
+* [jQuery Transit](http://ricostacruz.com/jquery.transit/) - Super-smooth CSS3 transformations and transitions for jQuery
+* Slider
+ * [Basic Slider](http://basic-slider.com/) - Simple to use, simple to theme, simple to customise
+
+ToolTip
+-------
 
 * [Tooltipster](http://calebjacob.com/tooltipster/) - enables you to easily create clean, HTML5 validated tooltips.
 * [tipsy](http://onehackoranother.com/projects/jquery/tipsy/) - Black Bg tooltips effect based on an anchor tag's title attribute.
 * [Hovercard](http://designwithpc.com/Plugins/Hovercard) - display related information with the hovered label, link, or any html element of your choice.
 * [Tipped](http://projects.nickstakenburg.com/tipped) - Tipped takes tooltips to the next level by using HTML5 to give you full control over the look and feel of your tooltips.
 * [Toolbar.Js](http://paulkinzett.github.com/toolbar/) - A jQuery plugin that creates tooltip style toolbars
- 
-**Loaders**
+
+Loaders
+-------
 
 * [Percentage Loader](http://widgets.better2web.com/loader/) - jQuery plugin for displaying progress in a visual and engaging way
 * [Hook.js](http://usehook.com/) - Pull to refresh. For the web.
 * [Pace](http://github.hubspot.com/pace/docs/welcome/) - Automatic page loading progress bar (Youtube loading bar clone)
 
-**Time**
+Time
+----
 
 * [Moment.js](http://momentjs.com/) - Javascript date library for parsing, validating, manipulating, and formatting dates.
 * [Countdown.js](http://countdownjs.org/) - JavaScript API for producing an accurate, intuitive description of the timespan between two Date instances
 * [Smart Time Ago](http://pragmaticly.github.com/smart-time-ago/) - jQuery library to update the relative timestamps in your document intelligently.
 * [timeago](http://timeago.yarp.com/) - Timeago is a jQuery plugin that makes it easy to support automatically updating fuzzy timestamps
- 
-**Canvas**
 
-* [Drawingboard.js](http://leimi.github.io/drawingboard.js/) - Create a drawing board on web using this library
-
-
-**Time Savers**
+Helpers
+-------
 
 * [Numeral.js](http://numeraljs.com/) - A javascript library for formatting and manipulating numbers.
 * [Money.js](http://josscrowcroft.github.com/money.js/) - JavaScript currency conversion library, done right - with no dependencies. Work seamlessly with data from the [Open Exchange Rates API](http://openexchangerates.org/)
@@ -118,3 +123,4 @@
 * [RulersGuides.js](http://mark-rolich.github.io/RulersGuides.js/) - This Javascript package creates Photoshop-like guides and rulers interface on a web page.
 * [Formula.js](http://stoic.com/formula/) - JavaScript implementation of most formula functions supported by Microsoft Excel 2013 and Google Spreadsheets
 * [Intro.js](http://usablica.github.io/intro.js/) - Better introductions for websites and features with a step-by-step guide for your projects.
+* [Drawingboard.js](http://leimi.github.io/drawingboard.js/) - Create a drawing board on web using this library
