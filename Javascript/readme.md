@@ -12,8 +12,8 @@ Web Forms
 ---------
 
 * Select Box:
+ * [Select2](https://select2.github.io/) - Features which select API missing
  * [Chosen](http://harvesthq.github.com/chosen/) - Morden, Customizable, More user-friendly
- * [Select2](http://ivaynberg.github.com/select2/) - More actions for Chosen.
  * [Editable Select list](http://coffeescripter.com/code/editable-select/) - Autosuggest, Custom input, Select 
  exisiting
  * [ddSlick](http://designwithpc.com/Plugins/ddSlick) - Allows you to create a custom drop down with images and description.
