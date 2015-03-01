@@ -28,16 +28,18 @@ Collection of documentation, articles, plugins related to Frontend development f
 - [Javascript](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript)
 	- [Documentation](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#documentation)
 	- [Web Forms](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#web-forms)
-		- Select Box
-		- Radio buttons/Check boxes
-		- Date Picker
-		- HTML5 Placeholder
-		- Validation
-		- File Upload
-		- Modal Boxes
+		- [Select Box](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#select-box)
+		- [Radio buttons/Check boxes](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#radio-buttonscheck-boxes)
+		- [Date Picker](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#date-picker)
+		- [HTML5 Placeholder](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#html5-placeholder)
+		- [Validation](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#validation)
+		- [File Upload](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#file-upload)
+		- [Modal Boxes](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#modal-boxes)
+		- [Misc](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#misc)
 	- [Maps](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#maps)
 	- [Images](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#images)
-	- [Media](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#media)
+	- [Video](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#video)
+	- [Audio](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#audio)
 	- [Events](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#events)
 	- [Animation](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#animation)
 	- [Tool Tip](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#tool-tip)

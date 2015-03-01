@@ -11,35 +11,42 @@ Documentation
 Web Forms
 ---------
 
-* Select Box:
+######Select Box
  * [Select2](https://select2.github.io/) - Features which select API missing
  * [Chosen](http://harvesthq.github.com/chosen/) - Morden, Customizable, More user-friendly
  * [Editable Select list](http://coffeescripter.com/code/editable-select/) - Autosuggest, Custom input, Select 
  exisiting
  * [ddSlick](http://designwithpc.com/Plugins/ddSlick) - Allows you to create a custom drop down with images and description.
  * [Selectize](http://brianreavis.github.io/selectize.js/) - hybrid of a textbox and <select> box. It's jQuery-based and it's useful for tagging, contact lists, country selectors, etc.,
-* Radio buttons/Check boxes:
+
+######Radio buttons/Check boxes:
  * [iCheck](http://damirfoy.com/iCheck/) - Super customized & Flat radio and checkboxes 
  * [Screw Default Buttons](http://www.screwdefaultbuttons.com/) - Replace default button with custom images.
  * [iPhone Switch Style](http://awardwinningfjords.com/2009/06/16/iphone-style-checkboxes.html) - Pretty smooth
-* Date Picker:
+
+######Date Picker:
  * [pickadate](http://amsul.github.com/pickadate.js/) - Sexy date picker, Responsive.
-* HTML5 Placeholder:
+
+######HTML5 Placeholder:
  * [jQuery-html5-placeholder-shim](https://github.com/jcampbell1/jquery-html5-placeholder-shim) - Just include the js, your'e Done!
  * [Simple Placeholder](https://github.com/marcgg/Simple-Placeholder) - Lightweight. Required - jQuery.
  * [Cross Browser Placeholder](http://webdesignerwall.com/tutorials/cross-browser-html5-placeholder-text) - Require jQuery & Modernizer.
-* Validation:
+
+######Validation:
  * [Parsley.js](http://parsleyjs.org/) - Validate your forms, frontend, without writting a single line of javascript!
  * [Validate.js](http://rickharrison.github.com/validate.js/) - Lightweight JavaScript form validation library inspired by CodeIgniter.
  * [jQuery Credit Card Validator](http://paweldecowski.github.com/jQuery-CreditCardValidator/) - Detects and validates credit card numbers
  * [Smart Validate - Credit Card Validator](http://www.egrappler.com/jquery-credit-card-validation-plugin-smart-validate/) - It ensures that user has entered valid credit card number before making actual transaction
  * [Mail Check](https://github.com/Kicksend/mailcheck) - Email domain spelling suggester
-* File Upload:
+
+######File Upload:
  * [jQuery File Upload](http://blueimp.github.com/jQuery-File-Upload/) - Multiple file selection, Drag & Drop support, Progress bars, Preview images & Works with most of the server-side platform.
  * [Uploadify](http://www.uploadify.com/) - HTML5 or Flash multiple file upload jQuery plugin script.
-* Modal Boxes:
+
+######Modal Boxes:
  * [Avgrund Modal](http://labs.voronianski.com/jquery.avgrund.js/) - It uses interesting concept showing depth between popup and page.
-* Others:
+
+######Misc:
  * [Enhance your Forms](http://www.noupe.com/jquery/50-useful-jquery-plugins-to-enhance-your-forms.html) - 50 Useful jQuery Plugins
  * [Complexify](https://github.com/danpalmer/jquery.complexify.js) - Gauge the quality of a user's password to give them visual feedback
  * [Sisyphus.js](http://coding.smashingmagazine.com/2011/12/05/sisyphus-js-client-side-drafts-and-more/) - Auto save user input in your form
@@ -55,6 +62,8 @@ Maps
 * [jvectormap](http://jvectormap.com/) - Interactive vector world map
 * [gmaps.js](http://hpneo.github.com/gmaps/) - Google maps api with less pain and more fun
 * [leaflet.js](http://leafletjs.com/) - An Open-Source JavaScript Library for Mobile-Friendly Interactive Maps
+* [planetaryjs](http://planetaryjs.com/) - Awesome interactive globes for the web
+* [openlayers3](http://openlayers.org/) - Mapping library that supports different projections
 
 
 Images
@@ -63,11 +72,21 @@ Images
 * [ImageLoader.js](http://nick-jonas.github.com/imageloader/) - Preload Images
 * [imagesloaded](https://github.com/desandro/imagesloaded) - ImagesLoaded
 
-
-Media
+Video
 -----
 
 * [MediaElement.js](http://mediaelementjs.com/) - HTML5 Video & Audio player for all browsers with same UI. Includes the Flash fallback for IE7+
+* [Plyr](http://plyr.io/) - A simple HTML5 media player with custom controls and WebVTT captions
+* [Fitvid](http://fitvidsjs.com/) - Responsive videos
+* [Videojs](http://www.videojs.com/) - Open source HTML5 video player
+
+Audio
+-----
+
+* [blip](http://jshanley.github.io/blip/) - Web Audio API wrapper
+* [howler](https://github.com/goldfire/howler.js/) - Audio library
+* [soundjs](http://createjs.com/SoundJS) - Audio library + simple interface
+* [SoundCite](http://soundcite.knightlab.com/) - Inline audio player
 
 Events
 ------
