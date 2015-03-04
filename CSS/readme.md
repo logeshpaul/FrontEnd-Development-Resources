@@ -9,16 +9,20 @@ Guides
 
 * [HTML/CSS Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml) - by Google
 * [CSS Guide](https://github.com/styleguide/css) - by Github
-* [Learning principles for improving your CSS](http://tympanus.net/codrops/2012/11/20/learning-principles-for-improving-your-css/) - Must read
-* [KSS](https://github.com/kneath/kss#readme)
-* [SMACSS](http://smacss.com/)
-* [idiomatic-css](https://github.com/necolas/idiomatic-css)
-* [Object-Oriented CSS](http://oocss.org/)
 * [Learn Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
+
+Methodology
+-----------
+
+* [SMACSS](http://smacss.com/) - Scalable Modular Architecture for CSS
+* [Object-Oriented CSS](http://oocss.org/) - Object oriented approach in CSS
+* [BEM](https://en.bem.info/method/) - Block, Element, Modifer methodology
+* [KSS](https://github.com/kneath/kss#readme) - Yet another methodology
+* [idiomatic-css](https://github.com/necolas/idiomatic-css) - Reasonable style guide for CSS development
 
 Concepts
 --------
-
+* [Learning principles for improving your CSS](http://tympanus.net/codrops/2012/11/20/learning-principles-for-improving-your-css/) - Must read
 * [CSS fundamentals-Understanding layout](http://learnlayout.com/)
 * [Understanding CSS Shorthand](http://www.impressivewebs.com/css-basics/)
 * [Understanding CSS’s vertical-align Property](http://www.impressivewebs.com/css-vertical-align/)
@@ -94,14 +98,20 @@ Validators
 * [W3C validator](http://jigsaw.w3.org/css-validator)
 * [CSS portal](http://www.cssportal.com/css-validatorhttp://filamentgroup.com/lab/responsive_design_approach_for_complex_multicolumn_data_tables)
 
+Formatters
+----------
+
+* [CSS Beautifier](http://html.fwpolice.com/css/) - Beautifies yours CSS
+* [CSScomb](http://csscomb.com/) - Sort CSS properties in specific order
+
 Helpers
 -------
 
 * [-prefix-free](http://leaverou.github.com/prefixfree/) - Break free from CSS prefix hell!
 * [Vendor Prefix Sheet](http://peter.sh/experiments/vendor-prefixed-css-property-overview/) - A-Z list of vendor prefixes sheet
-* [CSScomb](http://csscomb.com/) - Sort CSS properties in specific order
 * [16 Box Shadows to Save Your Time](http://cssdeck.com/labs/16-box-shadows-to-save-your-time)
 * [Using Sass source maps in WebKit Inspector](http://bricss.net/post/33788072565/using-sass-source-maps-in-webkit-inspector)
+* [Hint](http://kushagragour.in/lab/hint/) - A tooltip library in CSS for your lovely websites
 
 References
 ----------
