@@ -2,11 +2,50 @@ Documentation
 -------------
 
 * [A re-introduction to Javascript](https://developer.mozilla.org/en-US/docs/JavaScript/A_re-introduction_to_JavaScript?redirectlocale=en-US&redirectslug=A_re-introduction_to_JavaScript) - by Mozilla Developer Network
-* [Javascript Guide](https://developer.mozilla.org/en-US/docs/JavaScript/Guide) - by Mozilla Developer Network
-* [Learning Javascript design patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - by Addy Osmani
-* [The State of JavaScript](http://brendaneich.github.com/Strange-Loop-2012/#/) - by Brendan Eich
 * [jQuery Fundamentals](http://jqfundamentals.com/)
+* [The State of JavaScript](http://brendaneich.github.com/Strange-Loop-2012/#/) - by Brendan Eich
+* [Learning Javascript design patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - by Addy Osmani
+
+
+Guide
+-----
+* [Javascript Guide](https://developer.mozilla.org/en-US/docs/JavaScript/Guide) - by Mozilla Developer Network
 * [Style Guide](https://github.com/airbnb/javascript)
+
+
+Essentials
+----------
+
+######Application Frameworks
+
+* [jQuery](http://jquery.com/)
+* [Ext JS](http://www.sencha.com/products/extjs/)
+* [YUI](http://yuilibrary.com/)
+* [Vanilla JS](http://vanilla-js.com/)
+
+######Mobile Frameworks
+
+* [jQuery Mobile](http://jquerymobile.com/)
+* [Sencha Touch](http://www.sencha.com/products/touch/)
+
+######MVC Frameworks
+
+* [AngularJS](https://angularjs.org/)
+* [Ember.js](http://emberjs.com/)
+* [Backbone.js](documentcloud.github.com/backbone/)
+
+######Templating engines
+
+* [Rivets](rivetsjs.com)
+* [Underscore](http://documentcloud.github.io/underscore/#template)
+* [Mustache](http://mustache.github.io/)
+* [Handlebars](http://handlebarsjs.com/)
+* [Jade](http://jade-lang.com/)
+
+######Full-Stack Frameworks
+
+* [Meteor](http://meteor.com/)
+
 
 Web Forms
 ---------

@@ -27,6 +27,13 @@ Collection of documentation, articles, plugins related to Frontend development f
 
 - [Javascript](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript)
 	- [Documentation](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#documentation)
+	- [Guide](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#guide)
+	- [Essentials](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#essentials)
+		- [Application Frameworks](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#application-frameworks)
+		- [Mobile Frameworks](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#mobile-frameworks)
+		- [MVC Frameworks](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#mvc-frameworks)
+		- [Templating engines](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#templating-engines)
+		- [Full-Stack Frameworks](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#full-stack-frameworks)
 	- [Web Forms](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#web-forms)
 		- [Select Box](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#select-box)
 		- [Radio buttons/Check boxes](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#radio-buttonscheck-boxes)
