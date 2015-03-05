@@ -15,6 +15,7 @@ Collection of documentation, articles, plugins related to Frontend development f
 - [CSS](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/CSS)
 	- [Documentation](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/CSS#documentation)
 	- [Guides](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/CSS#guides)
+	- [Methodology](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/CSS#methodology)
 	- [Concepts](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/CSS#concepts)
 	- [Reset](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/CSS#reset)
 	- [Grid System](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/CSS#grid-system)
@@ -22,6 +23,7 @@ Collection of documentation, articles, plugins related to Frontend development f
 	- [Generators](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/CSS#generators)
 	- [Preprocessor](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/CSS#preprocessor)
 	- [Validators](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/CSS#validators)
+	- [Formatters](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/CSS#formatters)
 	- [Helpers](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/CSS#helpers)
 	- [References](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/CSS#references)
 
