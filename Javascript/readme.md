@@ -81,6 +81,7 @@ Web Forms
 ######File Upload:
  * [jQuery File Upload](http://blueimp.github.com/jQuery-File-Upload/) - Multiple file selection, Drag & Drop support, Progress bars, Preview images & Works with most of the server-side platform.
  * [Uploadify](http://www.uploadify.com/) - HTML5 or Flash multiple file upload jQuery plugin script.
+ * [Dropzone](http://www.dropzonejs.com/) - DropzoneJS is an open source library that provides drag’n’drop file uploads with image previews.
 
 ######Modal Boxes:
  * [Avgrund Modal](http://labs.voronianski.com/jquery.avgrund.js/) - It uses interesting concept showing depth between popup and page.
