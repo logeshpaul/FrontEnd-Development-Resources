@@ -183,3 +183,4 @@ Helpers
 * [Formula.js](http://stoic.com/formula/) - JavaScript implementation of most formula functions supported by Microsoft Excel 2013 and Google Spreadsheets
 * [Intro.js](http://usablica.github.io/intro.js/) - Better introductions for websites and features with a step-by-step guide for your projects.
 * [Drawingboard.js](http://leimi.github.io/drawingboard.js/) - Create a drawing board on web using this library
+* [Screw Default Buttons](http://www.screwdefaultbuttons.com/) - Simple jQuery plugin allowing you to replace the browser defaults for radio buttons and checkboxes with your own custom design.
