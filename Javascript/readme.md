@@ -51,50 +51,51 @@ Web Forms
 ---------
 
 ######Select Box
- * [Select2](https://select2.github.io/) - Features which select API missing
- * [Chosen](http://harvesthq.github.com/chosen/) - Morden, Customizable, More user-friendly
- * [Editable Select list](http://coffeescripter.com/code/editable-select/) - Autosuggest, Custom input, Select 
+* [Select3](https://arendjr.github.io/select3/) - Modular and light-weight selection library for jQuery and Zepto.js
+* [Select2](https://select2.github.io/) - Features which select API missing
+* [Chosen](http://harvesthq.github.com/chosen/) - Morden, Customizable, More user-friendly
+* [Editable Select list](http://coffeescripter.com/code/editable-select/) - Autosuggest, Custom input, Select
  exisiting
- * [ddSlick](http://designwithpc.com/Plugins/ddSlick) - Allows you to create a custom drop down with images and description.
- * [Selectize](http://brianreavis.github.io/selectize.js/) - hybrid of a textbox and <select> box. It's jQuery-based and it's useful for tagging, contact lists, country selectors, etc.,
+* [ddSlick](http://designwithpc.com/Plugins/ddSlick) - Allows you to create a custom drop down with images and description.
+* [Selectize](http://brianreavis.github.io/selectize.js/) - hybrid of a textbox and <select> box. It's jQuery-based and it's useful for tagging, contact lists, country selectors, etc.,
 
 ######Radio buttons/Check boxes:
- * [iCheck](http://damirfoy.com/iCheck/) - Super customized & Flat radio and checkboxes 
- * [Screw Default Buttons](http://www.screwdefaultbuttons.com/) - Replace default button with custom images.
- * [iPhone Switch Style](http://awardwinningfjords.com/2009/06/16/iphone-style-checkboxes.html) - Pretty smooth
+* [iCheck](http://damirfoy.com/iCheck/) - Super customized & Flat radio and checkboxes
+* [Screw Default Buttons](http://www.screwdefaultbuttons.com/) - Replace default button with custom images.
+* [iPhone Switch Style](http://awardwinningfjords.com/2009/06/16/iphone-style-checkboxes.html) - Pretty smooth
 
 ######Date Picker:
- * [pickadate](http://amsul.github.com/pickadate.js/) - Sexy date picker, Responsive.
+* [pickadate](http://amsul.github.com/pickadate.js/) - Sexy date picker, Responsive.
 
 ######HTML5 Placeholder:
- * [jQuery-html5-placeholder-shim](https://github.com/jcampbell1/jquery-html5-placeholder-shim) - Just include the js, your'e Done!
- * [Simple Placeholder](https://github.com/marcgg/Simple-Placeholder) - Lightweight. Required - jQuery.
- * [Cross Browser Placeholder](http://webdesignerwall.com/tutorials/cross-browser-html5-placeholder-text) - Require jQuery & Modernizer.
+* [jQuery-html5-placeholder-shim](https://github.com/jcampbell1/jquery-html5-placeholder-shim) - Just include the js, your'e Done!
+* [Simple Placeholder](https://github.com/marcgg/Simple-Placeholder) - Lightweight. Required - jQuery.
+* [Cross Browser Placeholder](http://webdesignerwall.com/tutorials/cross-browser-html5-placeholder-text) - Require jQuery & Modernizer.
 
 ######Validation:
- * [Parsley.js](http://parsleyjs.org/) - Validate your forms, frontend, without writting a single line of javascript!
- * [Validate.js](http://rickharrison.github.com/validate.js/) - Lightweight JavaScript form validation library inspired by CodeIgniter.
- * [jQuery Credit Card Validator](http://paweldecowski.github.com/jQuery-CreditCardValidator/) - Detects and validates credit card numbers
- * [Smart Validate - Credit Card Validator](http://www.egrappler.com/jquery-credit-card-validation-plugin-smart-validate/) - It ensures that user has entered valid credit card number before making actual transaction
- * [Mail Check](https://github.com/Kicksend/mailcheck) - Email domain spelling suggester
+* [Parsley.js](http://parsleyjs.org/) - Validate your forms, frontend, without writting a single line of javascript!
+* [Validate.js](http://rickharrison.github.com/validate.js/) - Lightweight JavaScript form validation library inspired by CodeIgniter.
+* [Validate Jquery](http://jqueryvalidation.org/) - Form validation with jQuery
+* [jQuery Credit Card Validator](http://paweldecowski.github.com/jQuery-CreditCardValidator/) - Detects and validates credit card numbers
+* [Smart Validate - Credit Card Validator](http://www.egrappler.com/jquery-credit-card-validation-plugin-smart-validate/) - It ensures that user has entered valid credit card number before making actual transaction
+* [Mail Check](https://github.com/Kicksend/mailcheck) - Email domain spelling suggester
 
 ######File Upload:
- * [jQuery File Upload](http://blueimp.github.com/jQuery-File-Upload/) - Multiple file selection, Drag & Drop support, Progress bars, Preview images & Works with most of the server-side platform.
- * [Uploadify](http://www.uploadify.com/) - HTML5 or Flash multiple file upload jQuery plugin script.
- * [Dropzone](http://www.dropzonejs.com/) - DropzoneJS is an open source library that provides drag’n’drop file uploads with image previews.
+* [jQuery File Upload](http://blueimp.github.com/jQuery-File-Upload/) - Multiple file selection, Drag & Drop support, Progress bars, Preview images & Works with most of the server-side platform.
+* [Uploadify](http://www.uploadify.com/) - HTML5 or Flash multiple file upload jQuery plugin script.
+* [Dropzone](http://www.dropzonejs.com/) - DropzoneJS is an open source library that provides drag’n’drop file uploads with image previews.
 
 ######Modal Boxes:
- * [Avgrund Modal](http://labs.voronianski.com/jquery.avgrund.js/) - It uses interesting concept showing depth between popup and page.
+* [Avgrund Modal](http://labs.voronianski.com/jquery.avgrund.js/) - It uses interesting concept showing depth between popup and page.
 
 ######Misc:
- * [Enhance your Forms](http://www.noupe.com/jquery/50-useful-jquery-plugins-to-enhance-your-forms.html) - 50 Useful jQuery Plugins
- * [Complexify](https://github.com/danpalmer/jquery.complexify.js) - Gauge the quality of a user's password to give them visual feedback
- * [Sisyphus.js](http://coding.smashingmagazine.com/2011/12/05/sisyphus-js-client-side-drafts-and-more/) - Auto save user input in your form
- * [Ideal Forms](http://elclanrs.github.com/jq-idealforms/) - Ideal Forms is the ultimate framework for building and validating responsive HTML5 forms.
- * [Form Accordion](https://github.com/OliverJAsh/FormAccordion) - A jQuery plugin for easily hiding and revealing related form fields conditionally.
- * [Super Labels](https://github.com/remybach/jQuery.superLabels) - Creates labels for input & slide across the field when gaining focus and fade out when a value is entered
- * [Progression.js](http://git.aaronlumsden.com/progression/#demo) -  real time hints & progress updates as user complete forms
-
+* [Enhance your Forms](http://www.noupe.com/jquery/50-useful-jquery-plugins-to-enhance-your-forms.html) - 50 Useful jQuery Plugins
+* [Complexify](https://github.com/danpalmer/jquery.complexify.js) - Gauge the quality of a user's password to give them visual feedback
+* [Sisyphus.js](http://coding.smashingmagazine.com/2011/12/05/sisyphus-js-client-side-drafts-and-more/) - Auto save user input in your form
+* [Ideal Forms](http://elclanrs.github.com/jq-idealforms/) - Ideal Forms is the ultimate framework for building and validating responsive HTML5 forms.
+* [Form Accordion](https://github.com/OliverJAsh/FormAccordion) - A jQuery plugin for easily hiding and revealing related form fields conditionally.
+* [Super Labels](https://github.com/remybach/jQuery.superLabels) - Creates labels for input & slide across the field when gaining focus and fade out when a value is entered
+* [Progression.js](http://git.aaronlumsden.com/progression/#demo) -  real time hints & progress updates as user complete forms
 
 Maps
 ----
@@ -104,7 +105,6 @@ Maps
 * [leaflet.js](http://leafletjs.com/) - An Open-Source JavaScript Library for Mobile-Friendly Interactive Maps
 * [planetaryjs](http://planetaryjs.com/) - Awesome interactive globes for the web
 * [openlayers3](http://openlayers.org/) - Mapping library that supports different projections
-
 
 Images
 ------
@@ -166,20 +166,42 @@ Time
 * [Smart Time Ago](http://pragmaticly.github.com/smart-time-ago/) - jQuery library to update the relative timestamps in your document intelligently.
 * [timeago](http://timeago.yarp.com/) - Timeago is a jQuery plugin that makes it easy to support automatically updating fuzzy timestamps
 
-Helpers
--------
+Notifications
+-------------
 
+* [favico.js](http://lab.ejci.net/favico.js/) - Make a use of your favicon with badges, images or videos
+* [Notificon](https://github.com/makeable/Notificon) - Favicon Notifications / Alerts
+* [Piecon](http://lipka.github.com/piecon/) - Pie charts in your favicon!
+
+Data Manipulation
+-----------------
+
+* [String.js](http://stringjs.com/) - JavaScript library for the browser or for Node.js that provides extra String methods
 * [Numeral.js](http://numeraljs.com/) - A javascript library for formatting and manipulating numbers.
 * [Money.js](http://josscrowcroft.github.com/money.js/) - JavaScript currency conversion library, done right - with no dependencies. Work seamlessly with data from the [Open Exchange Rates API](http://openexchangerates.org/)
 * [Accounting.js](http://josscrowcroft.github.com/accounting.js/) - JavaScript library for number, money and currency formatting, with optional excel-style column rendering (to line up symbols and decimals). It's lightweight, fully localisable and has zero dependencies.
+* [Formula.js](http://stoic.com/formula/) - JavaScript implementation of most formula functions supported by Microsoft Excel 2013 and Google Spreadsheets
+
+Navigation
+----------
+
+* [Slideout.js](https://mango.github.io/slideout/) - A touch slideout navigation menu for your mobile web apps.
+* [Navigation Sidebar with Toggle](http://bootsnipp.com/snippets/featured/navigation-sidebar-with-toggle) - Sidebar with toggle for bootstrap
+
+Presentation
+------------
+
+* [Reveal.js](http://lab.hakim.se/reveal-js/#/) - A HTML presentation framework
+* [Impress.js](http://bartaz.github.io/impress.js/#/bored) - Presentation which uses the power of css to show different animation effects.
+* [Intro.js](http://usablica.github.io/intro.js/) - Better introductions for websites and features with a step-by-step guide for your projects.
+* [Website Tour](http://tympanus.net/codrops/2010/12/21/website-tour/) - Explain your users the functioning of your web application in an interactive way
+
+Helpers
+-------
+
 * [Cookies](https://github.com/ScottHamper/Cookies) - JavaScript Client-Side Cookie Manipulation Library
 * [Zip.js](http://gildas-lormeau.github.com/zip.js/) - A JavaScript library to zip and unzip files
-* [String.js](http://stringjs.com/) - JavaScript library for the browser or for Node.js that provides extra String methods
-* [Piecon](http://lipka.github.com/piecon/) - Pie charts in your favicon!
-* [Notificon](https://github.com/makeable/Notificon) - Favicon Notifications / Alerts
 * [KeyPress](http://dmauro.github.io/Keypress/) - A robust Javascript library for capturing keyboard input
 * [jQuery Custom content scroller](http://manos.malihu.gr/jquery-custom-content-scroller/) - Custom scrollbar plugin that's fully customizable with CSS
 * [RulersGuides.js](http://mark-rolich.github.io/RulersGuides.js/) - This Javascript package creates Photoshop-like guides and rulers interface on a web page.
-* [Formula.js](http://stoic.com/formula/) - JavaScript implementation of most formula functions supported by Microsoft Excel 2013 and Google Spreadsheets
-* [Intro.js](http://usablica.github.io/intro.js/) - Better introductions for websites and features with a step-by-step guide for your projects.
 * [Drawingboard.js](http://leimi.github.io/drawingboard.js/) - Create a drawing board on web using this library
