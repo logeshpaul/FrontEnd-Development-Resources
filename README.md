@@ -90,5 +90,5 @@ Contribution would be of great help create a nice list
 
 **Active Contributers**
 
-[![Logesh Paul](https://pbs.twimg.com/profile_images/572499865571344386/_nkmRVFx_normal.jpeg)](http:/www.twitter.com/logeshpaul) [![Viduthalai Mani](https://pbs.twimg.com/profile_images/378800000823439162/4ea13e4c211c893b3e1989ebdf71d5c7_normal.png)](http:/www.twitter.com/viduthalai1947) [![Vineeth G S](https://pbs.twimg.com/profile_images/501676054872735744/vUb5V8Dj_normal.jpeg)](http://twitter.com/gsvineeth) [![Carlos Gustavo](https://pbs.twimg.com/profile_images/1587054366/NovoAdium_normal.jpg)](http://twitter.com/froskie)
+[![Logesh Paul](https://avatars3.githubusercontent.com/u/41541?v=3&s=72)](http:/www.github.com/logeshpaul) [![Viduthalai Mani](https://avatars3.githubusercontent.com/u/986602?v=3&s=72)](https://github.com/viduthalai1947) [![Vineeth G S](https://avatars1.githubusercontent.com/u/1710553?v=3&s=72)](https://github.com/gsvineeth) [![Carlos Gustavo](https://avatars2.githubusercontent.com/u/595300?v=3&s=72)](https://github.com/froskie)
 
