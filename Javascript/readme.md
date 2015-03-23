@@ -205,3 +205,4 @@ Helpers
 * [jQuery Custom content scroller](http://manos.malihu.gr/jquery-custom-content-scroller/) - Custom scrollbar plugin that's fully customizable with CSS
 * [RulersGuides.js](http://mark-rolich.github.io/RulersGuides.js/) - This Javascript package creates Photoshop-like guides and rulers interface on a web page.
 * [Drawingboard.js](http://leimi.github.io/drawingboard.js/) - Create a drawing board on web using this library
+* [Textures.js](http://riccardoscalco.github.io/textures/) - SVG patterns for Data Visualization
