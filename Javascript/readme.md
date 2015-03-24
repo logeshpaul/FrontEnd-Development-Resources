@@ -79,6 +79,7 @@ Web Forms
 * [jQuery Credit Card Validator](http://paweldecowski.github.com/jQuery-CreditCardValidator/) - Detects and validates credit card numbers
 * [Smart Validate - Credit Card Validator](http://www.egrappler.com/jquery-credit-card-validation-plugin-smart-validate/) - It ensures that user has entered valid credit card number before making actual transaction
 * [Mail Check](https://github.com/Kicksend/mailcheck) - Email domain spelling suggester
+* [mailcheck.js](https://github.com/mailcheck/mailcheck) - Reduce user-misspelled email addresses in your forms.
 
 ######File Upload:
 * [jQuery File Upload](http://blueimp.github.com/jQuery-File-Upload/) - Multiple file selection, Drag & Drop support, Progress bars, Preview images & Works with most of the server-side platform.
@@ -206,3 +207,4 @@ Helpers
 * [RulersGuides.js](http://mark-rolich.github.io/RulersGuides.js/) - This Javascript package creates Photoshop-like guides and rulers interface on a web page.
 * [Drawingboard.js](http://leimi.github.io/drawingboard.js/) - Create a drawing board on web using this library
 * [Textures.js](http://riccardoscalco.github.io/textures/) - SVG patterns for Data Visualization
+* [JS Grid](http://js-grid.com/) - Makes client side basic grid operations like inserting, filtering, editing, deleting, paging and sorting easier
