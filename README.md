@@ -51,6 +51,7 @@ Collection of documentation, articles, plugins related to Frontend development f
 	- [Date Picker](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#date-picker)
 	- [HTML5 Placeholder](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#html5-placeholder)
 	- [Validation](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#validation)
+	- [Web Text Editors (WYSIWYG)](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#web-text-editors-wysiwyg)
 	- [File Upload](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#file-upload)
 	- [Modal Boxes](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#modal-boxes)
 	- [Misc](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#misc)
