@@ -59,6 +59,11 @@ Web Forms
 * [ddSlick](http://designwithpc.com/Plugins/ddSlick) - Allows you to create a custom drop down with images and description.
 * [Selectize](http://brianreavis.github.io/selectize.js/) - hybrid of a textbox and <select> box. It's jQuery-based and it's useful for tagging, contact lists, country selectors, etc.,
 
+######Web Text Editors (WYSIWYG)
+* [Redactor](http://imperavi.com/redactor/) - limitless flexibility and extensibility,
+simple and super-efficient API and amazing user experience.
+* [CKEditor](http://ckeditor.com/) - Simple to use and it can be modified in any way you want.
+
 ######Radio buttons/Check boxes:
 * [iCheck](http://damirfoy.com/iCheck/) - Super customized & Flat radio and checkboxes
 * [Screw Default Buttons](http://www.screwdefaultbuttons.com/) - Replace default button with custom images.
