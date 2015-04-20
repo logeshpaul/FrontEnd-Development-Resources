@@ -49,13 +49,14 @@ Web Forms
 ---------
 
 - ######Select Box
+
   - [Select3](https://arendjr.github.io/select3/) - Modular and light-weight selection library for jQuery and Zepto.js
   - [Select2](https://select2.github.io/) - Features which select API missing
   - [Chosen](http://harvesthq.github.com/chosen/) - Morden, Customizable, More user-friendly
   - [Editable Select list](http://coffeescripter.com/code/editable-select/) - Autosuggest, Custom input, Select
  exisiting
   - [ddSlick](http://designwithpc.com/Plugins/ddSlick) - Allows you to create a custom drop down with images and description.
-  - [Selectize](http://brianreavis.github.io/selectize.js/) - hybrid of a textbox and <select> box. It's jQuery-based and it's useful for tagging, contact lists, country selectors, etc.,
+  - [Selectize](http://brianreavis.github.io/selectize.js/) - hybrid of a textbox and `<select>` box. 
 
 - ######Web Text Editors (WYSIWYG)
 
