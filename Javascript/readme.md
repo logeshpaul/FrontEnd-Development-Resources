@@ -55,13 +55,18 @@ Web Forms
  * [Super Labels](https://github.com/remybach/jQuery.superLabels) - Creates labels for input & slide across the field when gaining focus and fade out when a value is entered
  * [Progression.js](http://git.aaronlumsden.com/progression/#demo) -  real time hints & progress updates as user complete forms
 
+Documents
+---------
+
+* [PDF JS](https://github.com/mozilla/pdf.js) - Portable Document Format (PDF) viewer that is built with HTML5.
+
 
 Maps
 ----
 
+* [leaflet.js](http://leafletjs.com/) - An Open-Source JavaScript Library for Mobile-Friendly Interactive Maps
 * [jvectormap](http://jvectormap.com/) - Interactive vector world map
 * [gmaps.js](http://hpneo.github.com/gmaps/) - Google maps api with less pain and more fun
-* [leaflet.js](http://leafletjs.com/) - An Open-Source JavaScript Library for Mobile-Friendly Interactive Maps
 * [planetaryjs](http://planetaryjs.com/) - Awesome interactive globes for the web
 * [openlayers3](http://openlayers.org/) - Mapping library that supports different projections
 
@@ -69,16 +74,17 @@ Maps
 Images
 ------
 
+* [layzr.js](https://github.com/callmecavs/layzr.js) - A small, fast, modern, and dependency-free library for lazy loading images.
 * [ImageLoader.js](http://nick-jonas.github.com/imageloader/) - Preload Images
 * [imagesloaded](https://github.com/desandro/imagesloaded) - ImagesLoaded
 
 Video
 -----
 
+* [Videojs](http://www.videojs.com/) - Open source HTML5 video player
 * [MediaElement.js](http://mediaelementjs.com/) - HTML5 Video & Audio player for all browsers with same UI. Includes the Flash fallback for IE7+
 * [Plyr](http://plyr.io/) - A simple HTML5 media player with custom controls and WebVTT captions
 * [Fitvid](http://fitvidsjs.com/) - Responsive videos
-* [Videojs](http://www.videojs.com/) - Open source HTML5 video player
 
 Audio
 -----
@@ -126,6 +132,12 @@ Time
 * [Smart Time Ago](http://pragmaticly.github.com/smart-time-ago/) - jQuery library to update the relative timestamps in your document intelligently.
 * [timeago](http://timeago.yarp.com/) - Timeago is a jQuery plugin that makes it easy to support automatically updating fuzzy timestamps
 
+Favicon
+-------
+
+* [Piecon](http://lipka.github.com/piecon/) - Pie charts in your favicon!
+* [Notificon](https://github.com/makeable/Notificon) - Favicon Notifications / Alerts
+
 Helpers
 -------
 
@@ -135,11 +147,10 @@ Helpers
 * [Cookies](https://github.com/ScottHamper/Cookies) - JavaScript Client-Side Cookie Manipulation Library
 * [Zip.js](http://gildas-lormeau.github.com/zip.js/) - A JavaScript library to zip and unzip files
 * [String.js](http://stringjs.com/) - JavaScript library for the browser or for Node.js that provides extra String methods
-* [Piecon](http://lipka.github.com/piecon/) - Pie charts in your favicon!
-* [Notificon](https://github.com/makeable/Notificon) - Favicon Notifications / Alerts
 * [KeyPress](http://dmauro.github.io/Keypress/) - A robust Javascript library for capturing keyboard input
 * [jQuery Custom content scroller](http://manos.malihu.gr/jquery-custom-content-scroller/) - Custom scrollbar plugin that's fully customizable with CSS
 * [RulersGuides.js](http://mark-rolich.github.io/RulersGuides.js/) - This Javascript package creates Photoshop-like guides and rulers interface on a web page.
 * [Formula.js](http://stoic.com/formula/) - JavaScript implementation of most formula functions supported by Microsoft Excel 2013 and Google Spreadsheets
 * [Intro.js](http://usablica.github.io/intro.js/) - Better introductions for websites and features with a step-by-step guide for your projects.
 * [Drawingboard.js](http://leimi.github.io/drawingboard.js/) - Create a drawing board on web using this library
+* [Charts.js](https://github.com/nnnick/Chart.js) - Simple HTML5 Charts using the `<canvas> tag

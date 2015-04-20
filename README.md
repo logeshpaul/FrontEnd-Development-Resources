@@ -36,6 +36,7 @@ Collection of documentation, articles, plugins related to Frontend development f
 		- [File Upload](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#file-upload)
 		- [Modal Boxes](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#modal-boxes)
 		- [Misc](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#misc)
+	- [Documents](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#documents)
 	- [Maps](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#maps)
 	- [Images](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#images)
 	- [Video](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#video)
@@ -45,6 +46,7 @@ Collection of documentation, articles, plugins related to Frontend development f
 	- [Tool Tip](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#tool-tip)
 	- [Loaders](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#loaders)
 	- [Time](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#time)
+	- [Favicon](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#favicon)
 	- [Helpers](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#helpers)
 
 ## General
