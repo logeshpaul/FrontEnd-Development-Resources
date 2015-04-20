@@ -58,24 +58,29 @@ Web Forms
   - [Selectize](http://brianreavis.github.io/selectize.js/) - hybrid of a textbox and <select> box. It's jQuery-based and it's useful for tagging, contact lists, country selectors, etc.,
 
 - ######Web Text Editors (WYSIWYG)
+
   - [Redactor](http://imperavi.com/redactor/) - limitless flexibility and extensibility,
 simple and super-efficient API and amazing user experience.
   - [CKEditor](http://ckeditor.com/) - Simple to use and it can be modified in any way you want.
 
 - ######Radio buttons/Check boxes:
+
   - [iCheck](http://damirfoy.com/iCheck/) - Super customized & Flat radio and checkboxes
   - [Screw Default Buttons](http://www.screwdefaultbuttons.com/) - Replace default button with custom images.
   - [iPhone Switch Style](http://awardwinningfjords.com/2009/06/16/iphone-style-checkboxes.html) - Pretty smooth
 
 - ######Date Picker:
+
   - [pickadate](http://amsul.github.com/pickadate.js/) - Sexy date picker, Responsive.
 
 - ######HTML5 Placeholder:
+
   - [jQuery-html5-placeholder-shim](https://github.com/jcampbell1/jquery-html5-placeholder-shim) - Just include the js, your'e Done!
   - [Simple Placeholder](https://github.com/marcgg/Simple-Placeholder) - Lightweight. Required - jQuery.
   - [Cross Browser Placeholder](http://webdesignerwall.com/tutorials/cross-browser-html5-placeholder-text) - Require jQuery & Modernizer.
 
 - ######Validation:
+
   - [Parsley.js](http://parsleyjs.org/) - Validate your forms, frontend, without writting a single line of javascript!
   - [Validate.js](http://rickharrison.github.com/validate.js/) - Lightweight JavaScript form validation library inspired by CodeIgniter.
   - [Validate Jquery](http://jqueryvalidation.org/) - Form validation with jQuery
@@ -85,14 +90,17 @@ simple and super-efficient API and amazing user experience.
   - [mailcheck.js](https://github.com/mailcheck/mailcheck) - Reduce user-misspelled email addresses in your forms.
 
 - ######File Upload:
+
   - [jQuery File Upload](http://blueimp.github.com/jQuery-File-Upload/) - Multiple file selection, Drag & Drop support, Progress bars, Preview images & Works with most of the server-side platform.
   - [Uploadify](http://www.uploadify.com/) - HTML5 or Flash multiple file upload jQuery plugin script.
   - [Dropzone](http://www.dropzonejs.com/) - DropzoneJS is an open source library that provides drag’n’drop file uploads with image previews.
 
 - ######Modal Boxes:
+
   - [Avgrund Modal](http://labs.voronianski.com/jquery.avgrund.js/) - It uses interesting concept showing depth between popup and page.
 
 - ######Misc:
+
   - [Enhance your Forms](http://www.noupe.com/jquery/50-useful-jquery-plugins-to-enhance-your-forms.html) - 50 Useful jQuery Plugins
   - [Complexify](https://github.com/danpalmer/jquery.complexify.js) - Gauge the quality of a user's password to give them visual feedback
   - [Sisyphus.js](http://coding.smashingmagazine.com/2011/12/05/sisyphus-js-client-side-drafts-and-more/) - Auto save user input in your form
