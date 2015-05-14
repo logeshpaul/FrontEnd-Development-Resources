@@ -1,5 +1,5 @@
 **Documentation**
-* [Introduction to responsive design](https://developer.mozilla.org/en-US/docs/Apps/Design_Guidelines/Intro_to_responsive_design) - by Mozilla Developer Network 
+* [Introduction to responsive design](https://developer.mozilla.org/en-US/docs/Apps/Design_Guidelines/Intro_to_responsive_design) - by Mozilla Developer Network
 * [Responsive Web Design Guidelines and Tutorials](http://www.smashingmagazine.com/responsive-web-design-guidelines-tutorials) - by Smashing Magazine
 
 **References**
@@ -8,7 +8,7 @@
 **Framework**
 * [Mueller Grid System](http://www.muellergridsystem.com/)
 * [Semantic Grid System](http://semantic.gs/) - Page layout for tomorrow. Quite simple, effective, Recommended!
-* [Bootstrap](http://twitter.github.com/bootstrap) - by Twitter Developers 
+* [Bootstrap](http://twitter.github.com/bootstrap) - by Twitter Developers
 * [Get skeleton](http://www.getskeleton.com) - Boilerplate
 * [rwdGrid](http://rwdgrid.com/) - Lightweight, recommended for small websites.
 * [Golden Grid System](http://goldengridsystem.com) - A folding grid for responsive design.
@@ -19,6 +19,7 @@
 * [Screen Queries](http://screenqueri.es) - Test your website for responsiveness
 * [Responsivator](http://dfcb.github.com/Responsivator/) - View & share how sites look at different screen sizes
 * [Responsive.is](http://responsive.is/niarchive.org/trails/niarchive.org/trails/maritime-belfast) - Test your website for responsiveness
+* [Embed Responsively](http://embedresponsively.com/) - build responsive embed codes for embedding rich third-party media into responsive web pages.
 
 **Navigation**
 

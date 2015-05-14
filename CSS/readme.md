@@ -57,7 +57,9 @@ Frameworks
 * [baseline](http://baselinecss.com/)
 * [grumby](http://gumbyframework.com/)
 * [CSS action framework](http://code.google.com/p/css3-action-framework) - Hover, Active, etc.,
-* [Comparison](http://responsive.vermilion.com/compare.php)
+* [Basscss](http://www.basscss.com/) - lightweight collection of base element styles, immutable utilities, layout modules, and color styles designed for speed, clarity, performance, and scalability
+
+[Comparison](http://responsive.vermilion.com/compare.php)
 
 Generators
 ----------
