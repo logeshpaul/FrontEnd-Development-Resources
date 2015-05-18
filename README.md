@@ -5,7 +5,6 @@
 Collection of documentation, articles, plugins related to Frontend development for your daily needs. Please click on the category below to explore more.
 
 
-
 [HTML](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/HTML)
 ------
 
@@ -47,6 +46,7 @@ Collection of documentation, articles, plugins related to Frontend development f
 	- [Full-Stack Frameworks](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#full-stack-frameworks)
 - [Web Forms](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#web-forms)
 	- [Select Box](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#select-box)
+	- [Web Text Editors (WYSIWYG)](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#web-text-editors-wysiwyg)
 	- [Radio buttons/Check boxes](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#radio-buttonscheck-boxes)
 	- [Date Picker](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#date-picker)
 	- [HTML5 Placeholder](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#html5-placeholder)
@@ -54,6 +54,7 @@ Collection of documentation, articles, plugins related to Frontend development f
 	- [File Upload](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#file-upload)
 	- [Modal Boxes](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#modal-boxes)
 	- [Misc](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#misc)
+- [Documents](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#documents)
 - [Maps](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#maps)
 - [Images](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#images)
 - [Video](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#video)
@@ -65,18 +66,48 @@ Collection of documentation, articles, plugins related to Frontend development f
 - [Time](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#time)
 - [Notification](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#notification)
 - [Data Manipulation](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#data-manipulation)
+- [Data Visualization](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#data-visualization)
 - [Navigation](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#navigation)
 - [Presentation](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#presentation)
 - [Helpers](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript#helpers)
 
-General
--------
+Mobile First
+------------
 
-- [Browser](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Browser)
-- [Responsive](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Responsive)
+- [Responsive Web Design](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Responsive)
+  - [Documentation](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Responsive#documentation)
+  - [References](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Responsive#references)
+  - [Framework](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Responsive#framework)
+  - [Tools](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Responsive#tools)
+  - [Navigation](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Responsive#navigation)
+  - [Solutions](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Responsive#solutions)
+  - [Gallery / Inspirations](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Responsive#gallery--inspirations)
+  - [Maps](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Responsive#maps)
+- [Mobile Development](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Mobile-Development)
+  - [Documentation](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Mobile-Development#documentation)
+  - [Guides](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Mobile-Development#guides)
+  - [Mobile Web Frameworks](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Mobile-Development#mobile-web-frameworks)
+  - [Web(HTML, CSS, JS) to Native App Frameworks](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Mobile-Development#webhtml-css-js-to-native-app-frameworks)
+
+
+Misc
+----
 - [Git](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Git)
-- [Mobile Development](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master//Mobile-Development)
+  - [Download](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Git#download)
+  - [Documentation](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Mobile-Development#documentation)
+  - [Guides](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Mobile-Development#guides)
+  - [GUI's (Graphical User Interface)](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Mobile-Development#guis-graphical-user-interface)
+- [Browser](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Browser)
+  - [Browser Internals](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Quick-References#browser-internals)
+  - [Browser Support](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Quick-References#browser-support)
+  - [What Happens When](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Quick-References#what-happens-when)
+  - [Security](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Quick-References#security)
 - [Quick References](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Quick-References)
+  - [Dev Documentation](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Quick-References#dev-documentation)
+  - [Online REPL's/editors/IDE's](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Quick-References#online-replseditorsides)
+  - [Concept Understanding](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Quick-References#concept-understanding)
+  - [Workflow](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Quick-References#workflow)
+  - [Others](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Quick-References#others)
 
 
 Contributions
