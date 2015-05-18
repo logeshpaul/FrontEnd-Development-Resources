@@ -9,6 +9,7 @@ Collection of documentation, articles, plugins related to Frontend development f
 ------
 
 - [Documentation](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/HTML#documentation)
+- [Resources](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/HTML#resources)
 - [Guides](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/HTML#guides)
 - [API](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/HTML#api)
 - [Preprocessor](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/HTML#preprocessor)

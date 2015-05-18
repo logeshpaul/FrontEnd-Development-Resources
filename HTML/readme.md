@@ -1,12 +1,22 @@
 Documentation
 -------------
 
-* [HTML5 A vocabulary and associated APIs for HTML and XHTML](http://www.w3.org/TR/html-markup/) - from W3C
-* [HTML5 Reference A Web Developer’s Guide to HTML5](http://dev.w3.org/html5/html-author/) - from W3C
-* [HTML5 A technical specification for Web developers](http://developers.whatwg.org/) - from Whatwg
-* [HTML Living Standard](http://www.whatwg.org/specs/web-apps/current-work/multipage/) - from Whatwg
-* [HTML5 Documentation](https://developer.mozilla.org/en-US/docs/HTML/HTML5) - from Mozilla Developer Network 
-* [HTML5 differences from HTML4](http://dev.w3.org/html5/html4-differences/)
+* [HTML5 Specification API](http://www.w3.org/TR/html-markup/Overview.html#toc-full) - by W3C
+* [HTML Living Standard](http://www.whatwg.org/specs/web-apps/current-work/multipage/) - by Whatwg
+* [HTML5 Documentation](https://developer.mozilla.org/en-US/docs/HTML/HTML5) - by Mozilla Developer Network
+
+Resources
+---------
+
+* [HTML5 for Web Developers](http://html5doctor.com/html5-for-web-developers/) - API
+* [HTML5 Semantics](http://coding.smashingmagazine.com/2011/11/18/html5-semantics/) - by Bruce Lawson Blog
+* [Semantics in HTML5](http://www.alistapart.com/articles/semanticsinhtml5/) - by John Allsopp Blog
+* [Designing a blog with HTML5](http://html5doctor.com/designing-a-blog-with-html5/) - by Bruce Lawson Blog
+* [HTML5 A technical specification for Web developers](http://developers.whatwg.org/) - by Whatwg
+* [HTML5 Rocks](http://www.html5rocks.com/en/tutorials/) - Tutorials Blog
+* [Move the Web Forwards](http://movethewebforward.org/) - Initiative
+* [HTML5 Doctor](http://html5doctor.com/) - Blog
+* [Dive Into HTML5](http://diveintohtml5.info/) - Book by Mark Pilgrim
 
 Guides
 ------
@@ -47,10 +57,8 @@ References
 ----------
 
 * [HTML5 Bookmarks](http://html5bookmarks.com)
-* [HTML5 Rocks](http://www.html5rocks.com/en/)
 * [HTML5 Snippets](http://html5snippets.com/)
 * [HTML5 Demos & Examples](http://html5demos.com/)
 * [HTML5 Labs](http://html5labs.com/)
 * [Make awesome web](http://makeawesomeweb.com/)
-
-
+* [HTML5 differences from HTML4](http://dev.w3.org/html5/html4-differences/)
