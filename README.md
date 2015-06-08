@@ -120,7 +120,7 @@ Contribution would be of great help create a nice list
 * Make your feature addition or bug fix
 * Send pull request
 
-**Active Contributers**
+**Active Contributors**
 
 [![Logesh Paul](https://avatars3.githubusercontent.com/u/41541?v=3&s=72)](http:/www.github.com/logeshpaul) [![Viduthalai Mani](https://avatars3.githubusercontent.com/u/986602?v=3&s=72)](https://github.com/viduthalai1947) [![Vineeth G S](https://avatars1.githubusercontent.com/u/1710553?v=3&s=72)](https://github.com/gsvineeth) [![Carlos Gustavo](https://avatars2.githubusercontent.com/u/595300?v=3&s=72)](https://github.com/froskie)
 
