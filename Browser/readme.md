@@ -31,5 +31,3 @@ Security
 --------
 
 * [Browser Security Handbook](http://code.google.com/p/browsersec/wiki/Main)
-
-

@@ -23,4 +23,3 @@ GUI's (Graphical User Interface)
 * Gitbox - http://www.gitboxapp.com/
 * Github Client - http://mac.github.com/
 * Gitx - http://gitx.frim.nl/
-

@@ -28,4 +28,3 @@ Web(HTML, CSS, JS) to Native App Frameworks
 
 * Titanium Appcelerator - http://www.appcelerator.com/
 * PhoneGap - http://www.phonegap.com/
-
