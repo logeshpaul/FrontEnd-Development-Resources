@@ -21,7 +21,7 @@ Resources
 Guides
 ------
 
-* [HTML/CSS Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml) - by Google
+* [HTML/CSS Guide](https://google.github.io/styleguide/htmlcssguide.xml) - by Google
 * [HTML Guide](https://github.com/styleguide/html) - by Github
 * [Learn Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
 
