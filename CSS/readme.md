@@ -124,3 +124,10 @@ References
 * [CSS Values](http://cssvalues.com ) - Awesome quick tool to refer every CSS properties.
 * [CSS Animations](http://daneden.me/animate) [fork here: https://github.com/daneden/animate.css] - For css animations stuff, this is the place can get demo and source.
 * [CSS3 Shapes basics demo](http://css3shapes.com/) - This is a small site to help us to understanding a basic CSS3 shapes
+
+Other Useful Resources for styling
+----------
+
+* [CSS Icons and Fonts](https://fontawesome.com) - The ultimate reference for many Fonts and logos.
+* [CSS Fonts](https://fonts.google.com/) - Awesome quick tool to for CSS fonts.
+* [CSS Color](https://www.w3schools.com/colors/colors_picker.asp)For css Color.
