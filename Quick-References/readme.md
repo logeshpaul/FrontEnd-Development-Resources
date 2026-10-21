@@ -38,6 +38,7 @@ Concept Understanding
 * [Favicon](http://www.jonathantneal.com/blog/understand-the-favicon/)
 * [CSS - VerticalAlign](http://www.impressivewebs.com/css-vertical-align/)
 * [CSS - Clip](http://tympanus.net/codrops/2013/01/16/understanding-the-css-clip-property/)
+* [Compare JSON: Object Keys, Array Order and Record IDs — BestJSON](https://bestjson.com/learn/compare-json-ignore-order)
 
 Workflow
 --------
